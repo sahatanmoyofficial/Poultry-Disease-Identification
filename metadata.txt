@@ -1,0 +1,32 @@
+1. Learning Outcome:
+   - Master the end-to-end Machine Learning lifecycle from data ingestion to deployment.
+   - Learn to write modular, production-grade Python code for Deep Learning projects using CNNs.
+   - Understand MLOps principles including automated pipelines with DVC.
+   - Gain hands-on experience with Containerization using Docker.
+   - Implement CI/CD pipelines using GitHub Actions for automated deployment.
+   - Build and deploy scalable APIs using Flask.
+   - Deploy applications to Cloud platforms like AWS or Azure.
+
+2. What you will build:
+   - A "Poultry Disease Identification" application using VGG16 (Transfer Learning).
+   - An automated Training Pipeline that handles data ingestion, base model preparation, training, and evaluation.
+   - A Prediction Pipeline exposed via a Flask web application for real-time image classification.
+   - An automated deployment workflow using Docker and GitHub Actions.
+
+3. Prerequisite:
+   - Proficiency in Python programming.
+   - Fundamental understanding of Deep Learning concepts (CNNs) and Computer Vision.
+   - Basic familiarity with Git and version control.
+   - An AWS or Azure account (free tier is sufficient) for deployment.
+
+4. Technologies:
+   - Programming Language: Python
+   - Web Framework: Flask
+   - Deep Learning Library: TensorFlow (Keras)
+   - Data Processing: Pandas, NumPy
+   - MLOps & Pipelines: DVC (Data Version Control)
+   - Visualization: Matplotlib, Seaborn
+   - Containerization: Docker
+   - CI/CD: GitHub Actions
+   - Cloud Platform: AWS / Azure
+   - Frontend: HTML/CSS (Jinja2 Templates)
